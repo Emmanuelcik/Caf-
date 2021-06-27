@@ -1,2 +1,2 @@
 # Cafeteria
-This is just a repository of a practicing project. 
+It is just a practicing project
